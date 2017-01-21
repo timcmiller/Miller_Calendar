@@ -1,0 +1,16 @@
+.calendarContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.weekContainer {
+  display: flex;
+}
+
+.dayContainer {
+  display: flex;
+  border: 1px solid;
+  width: 100px;
+  height: 100px;
+}
